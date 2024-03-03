@@ -1,0 +1,31 @@
+<html>
+	<head></head> 
+	<body>
+	<h3> JavaScript Programming - Accessing DOM Objects  :  Example2</h3>
+	<hr/>	  
+	Technology Name  :      <input  type="text"  id="t1"  />  	
+	<input type="button"  onclick="buttonClick()"  value="Get Message"  />	
+	<hr/>	
+	<p  id="p1"></p>		 
+	<hr/>	
+ 
+	<script>	
+		function   buttonClick()   
+		{
+				 var  inputObj =  document.getElementById("t1");
+				 var  paraObj = document.getElementById("p1");					 
+				 paraObj.innerText = "Welcome to " +  inputObj.value;		
+		 }
+		 
+		
+		 
+	</script>
+	 
+	
+		  
+	</body>	
+</html>
+ 
+ 
+ 
+ 

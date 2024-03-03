@@ -1,0 +1,45 @@
+<html>
+	<head></head> 
+	<body>
+	<h3> JavaScript Programming - Accessing DOM Objects  :  Example3</h3>
+	<hr/>
+
+	<fieldset>
+			<legend>User Login</legend>
+			User Name  :    <input  type="text"  id="t1"  />  	
+			<br/><br/>
+			
+			Password  :    <input  type="Password"  id="t2"  />  	
+			<br/><br/>
+			<input type="button"  onclick="buttonClick()"  value="Login"  />	
+		 
+			<p  id="p1"></p>		
+	</fieldset>
+	 
+ 
+ 
+	<script>	
+		function   buttonClick()   
+		{
+				 var  inputObj1 =  document.getElementById("t1");
+				 var  inputObj2 =  document.getElementById("t2");
+				 var  paraObj = document.getElementById("p1");					
+				 
+				 if(  inputObj1.value == "admin"   &&  inputObj2.value == "admin123")
+				 {
+					paraObj.innerText = "Welcome to Admin";
+					paraObj.style.color =  "Green";
+				 }
+				 else
+				 {
+					paraObj.innerText = "Invalid user id or Password";
+					paraObj.style.color =  "Red";
+				 } 
+		 }
+	</script>
+	</body>	
+</html>
+ 
+ 
+ 
+ 

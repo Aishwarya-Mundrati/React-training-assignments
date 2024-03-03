@@ -1,0 +1,35 @@
+<html>
+	<head></head> 
+	<body>
+	Product Name  :    <input  type="text"  id="t1"  />  	
+	<br/><br/>
+			
+	Unit Price  :    <input  type="text"  id="t2"  />  	
+	<br/><br/>
+			
+    Quantity :    <input  type="text"  id="t3"  />
+	<br/><br/>
+			
+	<input type="button"  onclick="buttonClick()"  value="Get total"  />
+	<br/><br/>
+			
+    Total Amount :    <input  type="text"  id="t4"  />  	
+    <br/><br/>
+
+	<script>	
+		function   buttonClick()   
+		{
+				 var  inputObj1 =  document.getElementById("t1");
+				 var  inputObj2 =  document.getElementById("t2");
+				 var  inputObj3 =  document.getElementById("t3");
+				 var  inputObj4 = document.getElementById("t4");					
+				 
+				 inputObj4.value= inputObj2.value *  inputObj3.value; 
+		 }
+	</script>
+	</body>	
+</html>
+ 
+ 
+ 
+ 
