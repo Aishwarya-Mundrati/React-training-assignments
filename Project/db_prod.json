@@ -1,0 +1,178 @@
+{
+  "product": [
+    {
+      "prodid": "1",
+      "pname": "Roby",
+      "prodDesc": "The Sunshine Solitaire Bridal Ring set by CaratLane is the perfect choice for a new bride. Set in 18kt yellow gold and diamonds in prong setting, this ring set radiates elegance and sophistication. The solitaire diamond in the engagement ring is expertly crafted to ensure maximum brilliance and sparkle. ",
+      "imageurl": "5.png",
+      "price": 65000
+    },
+    {
+      "prodid": "2",
+      "pname": "Heeenss",
+      "prodDesc": "Set in 14 KT Rose Gold(3.450 g) with diamonds (0.155 ct ,IJ-SI)",
+      "imageurl": "6.png",
+      "price": 6378983
+    },
+    {
+      "prodid": "3",
+      "pname": "Riyal",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "imageurl": "8.png",
+      "price": 78927892
+    },
+    {
+      "prodid": "4",
+      "pname": "Hiranya",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "imageurl": "3.png",
+      "price": 78969
+    },
+    {
+      "prodid": "5",
+      "pname": "Vipala",
+      "prodDesc": "Perfect Jewel from the Nizams. ",
+      "imageurl": "1.png",
+      "price": 78969
+    },
+    {
+      "prodid": "6",
+      "pname": "Rapid",
+      "prodDesc": "Set in 14 KT Rose Gold(3.450 g) with diamonds (0.155 ct ,IJ-SI)",
+      "imageurl": "9.png",
+      "price": 638939
+    },
+    {
+      "prodid": "7",
+      "pname": "Tiara",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "imageurl": "10.png",
+      "price": 78939
+    },
+    {
+      "prodid": "8",
+      "pname": "Reeks",
+      "prodDesc": "The Sunshine Solitaire Bridal Ring set by CaratLane is the perfect choice for a new bride. Set in 18kt yellow gold and diamonds in prong setting, this ring set radiates elegance and sophistication. The solitaire diamond in the engagement ring is expertly crafted to ensure maximum brilliance and sparkle. ",
+      "imageurl": "2.png",
+      "price": 78993
+    },
+    {
+      "prodid": "9",
+      "pname": "Uon",
+      "prodDesc": "The Solitaire Bridal Ring set by CaratLane is the perfect choice for girl.",
+      "imageurl": "4.png",
+      "price": 738893
+    },
+    {
+      "prodid": "10",
+      "pname": "jeeeeya",
+      "prodDesc": "The perfect jewel for formal events.",
+      "imageurl": "7.png",
+      "price": 78322
+    }
+  ],
+  "products": [
+    {
+      "prodId": 1,
+      "prodName": "Shiny Daisy",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 2,
+      "prodName": "Roby",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 3,
+      "prodName": "Heenss",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 4,
+      "prodName": "Riyal",
+      "prodDesc": "The halo design adds to the overall brilliance and sparkle of the ring, making it a true showstopper. This piece of jewellery is perfect for any special occasion or as a timeless addition to your collection.",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 5,
+      "prodName": "Beaming Bloom",
+      "prodDesc": "The halo design adds to the overall brilliance and sparkle of the ring, making it a true showstopper. This piece of jewellery is perfect for any special occasion or as a timeless addition to your collection.",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 6,
+      "prodName": "Hiranya",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 7,
+      "prodName": "Rapid",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 9,
+      "prodName": "Tiara",
+      "prodDesc": "The Queen of Diamonds Solitaire Rings by CaratLane are a breathtakingly beautiful piece of jewellery that is fit for royalty. Made with 18kt yellow gold, the ring features a magnificent diamond in the center, surrounded by a halo of smaller diamonds set in a prong setting. ",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 8,
+      "prodName": "Reeks",
+      "prodDesc": "The halo design adds to the overall brilliance and sparkle of the ring, making it a true showstopper. This piece of jewellery is perfect for any special occasion or as a timeless addition to your collection.",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    },
+    {
+      "prodId": 10,
+      "prodName": "Uon",
+      "prodDesc": "The halo design adds to the overall brilliance and sparkle of the ring, making it a true showstopper. This piece of jewellery is perfect for any special occasion or as a timeless addition to your collection.",
+      "img": "",
+      "prodPrice": 789,
+      "prodQuantity": 12,
+      "rating": 4
+    }
+  ],
+  "users": [
+    {
+      "uid": "admin",
+      "pwd": "admin123",
+      "role": "admin"
+    },
+    {
+      "uid": "user",
+      "pwd": "user123",
+      "role": "user"
+    }
+  ]
+}
