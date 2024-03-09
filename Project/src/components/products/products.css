@@ -1,0 +1,66 @@
+.col-4 mb-3{
+    padding:1 rem;
+}
+
+.show {
+    display: block;
+    background: rgb(0 0 0 / 53%);
+}
+
+.prod_img {
+    width: 30%;
+    object-fit: cover;
+    height: 30%;
+}
+
+.prod_img .avatar {
+    width: 100%;
+    height: 100%;
+}
+.action_btns{
+    position: absolute;
+}
+.action_btns button {
+    color: black;
+    border-radius: 50%;
+    border: 0px;
+    height: 30px;
+    width: 30px;
+    &:hover {
+        color: rgb(231, 145, 113);
+        cursor: pointer;
+
+    }
+}
+
+.card-title{
+    text-align:center;
+}
+.card-body {
+    text-align: left;
+    height:250px;
+}
+.card-text{
+    margin-top: 5px;
+    color: #d19648;
+}
+.modal.show .modal-dialog{
+    max-width: 65%;
+}
+.modal-body label{
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.form-control{
+    margin-bottom: 1rem;
+}
+.inputrate{
+    display: flex;
+    gap: 10px;
+}
+
+.card-header text-end action_btns{
+    color:white;
+    border:none;
+
+}

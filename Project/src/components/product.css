@@ -1,0 +1,19 @@
+.projectlinkimage table img{
+    width: 100px;
+    padding: 15px;
+    height: 100px;
+    object-fit: contain;
+  }
+
+  table{
+    font-size: 14px;
+  }
+  input{
+    font-size: 14px;
+  }
+  .w-30{
+    width: 130px!important;
+  }
+  table th{
+    padding:10px 5px;
+  }

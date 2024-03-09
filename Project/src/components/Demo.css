@@ -1,0 +1,61 @@
+.card
+{
+    height : 50%;
+    width : 25%;
+    text-align: center;
+    display:inline-block;
+    border:1px solid black; 
+    box-sizing: border-box;
+    border-radius:10px;
+    border-color:rgb(240, 237, 237);
+    border-width:10px ;
+
+}
+
+.stars{
+    color:green;
+}
+.card  img
+{
+    width : 50px;
+    height: 50px;
+    border-radius: 100px;
+    padding : 1px;
+    border: 1px solid gray;
+}
+
+.card img:hover
+{
+    box-shadow: 1px 1px 10px red;  
+}
+
+.email
+{
+    color : gray;
+    font-size:  8px;
+    margin: 0px;    
+} 
+
+.a1{
+   width : 80%; 
+   margin :0px auto;
+}
+
+button{
+    background-color: light rgb(196, 193, 193);
+    size: 100px;
+    border:1px; 
+    color: black;
+    height:30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-radius:10px;
+    
+
+}
+
+.name{
+ color:rgb(209, 101, 46);
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
