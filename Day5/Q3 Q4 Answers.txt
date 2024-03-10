@@ -1,0 +1,2 @@
+3Q. How to redirect from one route to another using code?
+A. 
